@@ -14,7 +14,7 @@ import javax.ws.rs.core.Response.Status;
 import com.yhark.model.Activity;
 
 
-
+//
 public class ActivityClient {
 
 	private Client client;
